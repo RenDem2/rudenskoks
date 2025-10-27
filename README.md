@@ -1,0 +1,2 @@
+# rudenskoks
+Pirmais pasas repozitorijs.
